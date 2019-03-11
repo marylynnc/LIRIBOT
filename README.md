@@ -65,7 +65,7 @@ do-what-it-says
 
      * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
      
-     ##Screenshots
+     ## Screenshots
      
      1. ![do-what-it-says](images/do-what-it-says.png)
      2. ![movie-this](images/movie-this.png)
