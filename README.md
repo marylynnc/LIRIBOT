@@ -67,11 +67,11 @@ do-what-it-says
      
      ## Screenshots
      
-     1. ![do-what-it-says](images/do-what-it-says.png)
-     2. ![movie-this](images/movie-this.png)
-     3. ![movie-this-default](images/movie-this-default.png)
-     4. ![spotify-this-song](images/spotify-this-song.png)
-     5. ![spotify-this-song-default](images/spotify-this-song-default.png)
+     1. ![do-what-it-says](/images/do-what-it-says.png)
+     2. ![movie-this](/images/movie-this.png)
+     3. ![movie-this-default](/images/movie-this-default.png)
+     4. ![spotify-this-song](/images/spotify-this-song.png)
+     5. ![spotify-this-song-default](/images/spotify-this-song-default.png)
       
 
 
