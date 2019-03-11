@@ -64,5 +64,13 @@ do-what-it-says
    * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
      * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
+     
+     ##Screenshots
+      ![do-what-it-says](images/do-what-it-says.png)
+      ![movie-this](images/movie-this.png)
+      ![movie-this-default](images/movie-this-default.png)
+      ![spotify-this-song](images/spotify-this-song.png)
+      ![spotify-this-song-default](images/spotify-this-song-default.png)
+      
 
 
