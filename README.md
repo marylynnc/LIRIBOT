@@ -67,11 +67,10 @@ do-what-it-says
      
      ## Screenshots
      
-     1. ![do-what-it-says](/images/do-what-it-says.png)
-     2. ![movie-this](/images/movie-this.png)
-     3. ![movie-this-default](/images/movie-this-default.png)
-     4. ![spotify-this-song](/images/spotify-this-song.png)
-     5. ![spotify-this-song-default](/images/spotify-this-song-default.png)
-      
+   <img width="594" alt="do-what-it-says" src="https://user-images.githubusercontent.com/43947587/54097650-5a2ef080-436e-11e9-998f-a9bc89fe72af.png">
+<img width="567" alt="movie-this" src="https://user-images.githubusercontent.com/43947587/54097651-5a2ef080-436e-11e9-8584-df13a49e423d.png">
+<img width="570" alt="movie-this-default" src="https://user-images.githubusercontent.com/43947587/54097652-5a2ef080-436e-11e9-824b-126e4caa3fee.png">
+<img width="530" alt="spotify-this-song" src="https://user-images.githubusercontent.com/43947587/54097653-5a2ef080-436e-11e9-809e-f9881ed085d6.png">
+<img width="572" alt="spotify-this-song-default" src="https://user-images.githubusercontent.com/43947587/54097654-5a2ef080-436e-11e9-86c4-5ac69ba850aa.png">
 
 
